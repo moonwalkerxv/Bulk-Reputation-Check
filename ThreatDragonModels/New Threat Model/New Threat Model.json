@@ -1,0 +1,27 @@
+{
+  "version": "2.4.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "moonwalkerxv",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.0",
+        "cells": [],
+        "description": "STRIDE"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "moonwalkerxv",
+    "threatTop": 0
+  }
+}
